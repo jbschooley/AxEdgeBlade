@@ -2,6 +2,8 @@
 
 A customizable and 3D-printable blade compatible for the Roland AX-Edge Keytar. The original blade was scanned in with a Faro scanner, then reverse engineered to produce a version that is easier to 3D print.
 
+![Ax-Edge keytar with 3D printed blade](keytar.png)
+
 The long side has been made flat on top so it can be printed face down on the build plate. This allows for graphics to be inserted on that plane with color changes on a single-head printer (I use a Bambu P2S) without a huge purge tower. The short side is unfortunately too curved and must be printed vertically. It could probably be printed horizontally with supports in the right places but I haven't been able to dial that in yet.
 
 I split the body into 5 pieces for printing on a 256x256mm build plate, then added tabs to keep the edges that are far from screw mounts aligned. If you want the complete, unsplit version, use the STL or roll the timeline back 14 steps in fusion. To move the split lines, adjust the Split1/2/3 parameters.
